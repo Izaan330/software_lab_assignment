@@ -1,0 +1,103 @@
+commit f8938cd4bc9b9ebfffbcee3e7367c475d20f4823
+Author: Izaan <izaanshaikh330@gmail.com>
+Date:   Mon Mar 6 19:56:13 2023 +0530
+
+    Re-adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..2a78b11
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++graduation year-2025. first job-ceo at tesla
+\ No newline at end of file
+
+commit a8a17f8dfb0c64fcc44b8e236b9addca4ef4a15f
+Author: Izaan <izaanshaikh330@gmail.com>
+Date:   Mon Mar 6 19:35:43 2023 +0530
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index b76b814..55c4176 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,2 +1,3 @@
+ Name- Izaan.  Major- Computer Science and Engineering
+-Restaurant- Tanjore. Movie- Up.
+\ No newline at end of file
++Restaurant- Tanjore. Movie- Up.
++Favourite color- Red.
+\ No newline at end of file
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index 2a78b11..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-graduation year-2025. first job-ceo at tesla
+\ No newline at end of file
+
+commit becfd91c92b9ea74a2163e45a143d1b180698d67
+Author: Izaan <izaanshaikh330@gmail.com>
+Date:   Mon Mar 6 19:30:34 2023 +0530
+
+    File 2 commited
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..2a78b11
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++graduation year-2025. first job-ceo at tesla
+\ No newline at end of file
+
+commit 3b064246325f1f8cc73b4c7b523676a39d3e267f
+Author: Izaan <izaanshaikh330@gmail.com>
+Date:   Mon Mar 6 16:55:52 2023 +0530
+
+    Added favourite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index c7d889c..b76b814 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,2 @@
+-Name- Izaan.  Major- Computer Science and Engineering
+\ No newline at end of file
++Name- Izaan.  Major- Computer Science and Engineering
++Restaurant- Tanjore. Movie- Up.
+\ No newline at end of file
+
+commit 1ff3761b7f31c77570a03cc6cdd6ef5c603941d4
+Author: Izaan <izaanshaikh330@gmail.com>
+Date:   Mon Mar 6 16:34:05 2023 +0530
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index 7484cf5..c7d889c 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Name- Izaan.  Student ID-27139.
+\ No newline at end of file
++Name- Izaan.  Major- Computer Science and Engineering
+\ No newline at end of file
+
+commit 7d60eae7957c300e538a929251c0bd8adae349ad
+Author: Izaan <izaanshaikh330@gmail.com>
+Date:   Mon Mar 6 16:23:41 2023 +0530
+
+    Commiting my new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..7484cf5
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Name- Izaan.  Student ID-27139.
+\ No newline at end of file
